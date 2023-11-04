@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoginScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/HomeScene.unity
+    guid: 496419fc2f4c12440b289a4a4e3226ee
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: 2c1e283fec177b240b79dddb60091441
+  - enabled: 1
+    path: Assets/Scenes/PracticeScene.unity
+    guid: c0081a03af3d1eb4598cb5e23d7c2461
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 3f7abfe5d6fe9cb49bd6381f03372634,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 903addc3ae2679a4a9ece6465b973ec1,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 9d6e4df4607e28540b83cbc826eb4fca,
+      type: 2}
